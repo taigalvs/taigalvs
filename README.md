@@ -7,6 +7,7 @@
   </a> </p>
 
 My name is Tainá Galvão 👩🇧🇷
+<br>
 I'm a Front-end Developer passionate about solving problems and learning things  💻
 - 📍 From Rio de Janeiro living in São Paulo
 - 💼  I am currently looking for a job as Frontend Developer.

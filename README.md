@@ -10,7 +10,7 @@ My name is Tainá Galvão 👩🇧🇷
 <br>
 I'm a Front-end Developer passionate about solving problems and learning things  💻
 - 📍 From Rio de Janeiro living in São Paulo
-- 💼  I am currently looking for a job as Frontend Developer.
+- 💼  Frontend Developer Jr At Inbotix.
 - 👩‍💻 Always open to new challenges and ready to face changes
 -   🎓  Learning:  **ReactJS | Next.js | TypeScript**.
 

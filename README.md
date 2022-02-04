@@ -10,7 +10,7 @@
 My name is Tainá! 
 I'm a Front-end Developer passionate about solving problems and learning things  💻
 - 📍 From Rio de Janeiro living in São Paulo
-- 💼  Front-end Developer  at NeoPDV.
+- 💼  Front-end Developer  at Por A mais B.
 - 👩‍💻 Always open to new challenges and ready to face changes
 -   🎓  Learning:  **| Automated Tests | TypeScript**.
 

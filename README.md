@@ -9,10 +9,9 @@
 
 My name is Tainá! 
 I'm a Front-end Developer passionate about solving problems and learning things  💻
-- 📍 From Rio de Janeiro living in São Paulo
+- 📍 From Rio de Janeiro
 - 💼  Front-end Developer  at FreteBras.
 - 👩‍💻 Always open to new challenges and ready to face changes
--   🎓  Learning:  **| Automated Tests | TypeScript**.
 
 
 ### 🛠 Tech Stack
